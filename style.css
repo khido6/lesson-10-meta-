@@ -13,7 +13,7 @@ body{
     display: flex;
     margin: 0px auto;
     justify-content: space-between;
-    padding: 205px 180px;
+    padding: 50px 180px;
     flex-wrap: wrap;
     
 }
@@ -73,4 +73,11 @@ button{
 }
 .footer{
     display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 1250px;
+    margin: -200px auto;
+    margin-right: 60px;
+    color:#ffffff;
+    align-items: center;
 }
