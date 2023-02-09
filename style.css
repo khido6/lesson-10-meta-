@@ -9,7 +9,7 @@ body{
 .container{
     max-width: 1920px;
     width: 94%;
-    height: 1080px;
+    height: 980px;
     display: flex;
     margin: 0px auto;
     justify-content: space-between;
